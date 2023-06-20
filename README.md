@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## Task-Race
 
-This project is a starting point for a Flutter application.
+This project is made while learning flutter. This is a little better TODO app with some useful features
 
-A few resources to get you started if this is your first Flutter project:
+Tasks are divided according to their status and also contains fields for some useful details for the task.
+> TODO : tasks to be done
+> FOCUS : tasks being focused now
+> DONE : completed tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Notification system is there to remind about the task according to its importance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is a point system with different rankings unlocked according to points gained to spice things up a bit.
+Every detail about app, developer and how to use the app is inside the app.
